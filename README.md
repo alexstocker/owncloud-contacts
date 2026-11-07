@@ -2,7 +2,7 @@
 
 <!-- OSPO-managed README | Generated: 2026-04-16 | v2 -->
 
-[![License](https://img.shields.io/badge/License-See%20Repository-blue.svg)](LICENSE) [![ownCloud OSPO](https://img.shields.io/badge/OSPO-ownCloud-blue)](https://kiteworks.com/opensource) [![Docker Hub](https://img.shields.io/docker/pulls/owncloud)](https://hub.docker.com/r/owncloud/server)
+[![License](https://img.shields.io/badge/License-See%20Repository-blue.svg)](LICENSE) [![ownCloud OSPO](https://img.shields.io/badge/OSPO-ownCloud-blue)](https://kiteworks.com/opensource) [![Docker Hub](https://img.shields.io/docker/pulls/owncloud)](https://hub.docker.com/r/owncloud/server) [![PHP 8.3](https://img.shields.io/github/actions/workflow/status/alexstocker/owncloud-contacts/main.yml?branch=1.6-devel&label=PHP%208.3)](https://github.com/alexstocker/owncloud-contacts/actions/workflows/main.yml)
 
 The ownCloud Contacts app provides a feature-rich web interface for managing CardDAV contacts in ownCloud Server. It is the frontend for the server-integrated CardDAV backend, replacing the original contacts app. Users can create, edit, and organize contacts, manage address books, and share contacts with other users.
 
