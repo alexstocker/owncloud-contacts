@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+- docs(contacts): add PHP 8.3 CI badge
+
 ## [1.6.0] - 2026-09-22
 
 ### Removed
